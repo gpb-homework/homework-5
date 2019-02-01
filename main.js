@@ -12,7 +12,7 @@
             // alert(evt.target.classList);            
         }        
     }
-    capture();
+    // capture();
 
 
 
@@ -24,7 +24,7 @@
         });                
     }
     
-    submit();
+    // submit();
 
 
     function delegate() {
@@ -41,5 +41,5 @@
          });                                
     }
     
-    delegate();    
+    // delegate();    
 }());
